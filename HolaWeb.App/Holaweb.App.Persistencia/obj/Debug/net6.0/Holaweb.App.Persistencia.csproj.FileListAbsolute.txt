@@ -1,0 +1,15 @@
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.AssemblyInfo.cs
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\bin\Debug\net6.0\Holaweb.App.Persistencia.deps.json
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\bin\Debug\net6.0\Holaweb.App.Persistencia.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\bin\Debug\net6.0\Holaweb.App.Persistencia.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\bin\Debug\net6.0\Holaweb.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\bin\Debug\net6.0\Holaweb.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.csproj.CopyComplete
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\refint\Holaweb.App.Persistencia.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\Holaweb.App.Persistencia.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\Holaweb.App.Persistencia\obj\Debug\net6.0\ref\Holaweb.App.Persistencia.dll

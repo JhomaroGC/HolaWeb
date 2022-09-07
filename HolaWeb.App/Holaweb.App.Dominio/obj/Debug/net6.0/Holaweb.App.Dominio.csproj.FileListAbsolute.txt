@@ -1,0 +1,12 @@
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\net6.0\Holaweb.App.Dominio.deps.json
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\net6.0\Holaweb.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\bin\Debug\net6.0\Holaweb.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.AssemblyInfo.cs
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\refint\Holaweb.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\Holaweb.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\net6.0\ref\Holaweb.App.Dominio.dll
