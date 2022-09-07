@@ -4,14 +4,14 @@
     "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
-        "projectName": "HolaWeb.App.Frontend",
-        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj",
+        "projectName": "Holaweb.App.Dominio",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\obj\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,9 +49,126 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "projectName": "HolaWeb.App.Frontend",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj"
+              },
+              "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj",
+        "projectName": "Holaweb.App.Persistencia",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

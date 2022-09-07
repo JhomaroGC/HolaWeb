@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "HolaWeb.App.Frontend/1.0.0": {
+        "dependencies": {
+          "Holaweb.App.Dominio": "1.0.0",
+          "Holaweb.App.Persistencia": "1.0.0"
+        },
         "runtime": {
           "HolaWeb.App.Frontend.dll": {}
+        }
+      },
+      "Holaweb.App.Dominio/1.0.0": {
+        "runtime": {
+          "Holaweb.App.Dominio.dll": {}
+        }
+      },
+      "Holaweb.App.Persistencia/1.0.0": {
+        "dependencies": {
+          "Holaweb.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Holaweb.App.Persistencia.dll": {}
         }
       }
     }
   },
   "libraries": {
     "HolaWeb.App.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Holaweb.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Holaweb.App.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -24,7 +24,26 @@ namespace HolaWeb.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>();
+            services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>(); // Es un servicio que va a ofrecer esta aplicación
+        }
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            if(env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            else {
+                app.UseExceptionHandler("/Error");
+                app.UseHsts();
+            }
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseRouting();
+            app.UseAuthorization();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapRazorPages();
+            });
         }
     }
 }

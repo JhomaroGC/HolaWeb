@@ -3,4 +3,15 @@
 @{
 }
 
-<h1>Lista de saludos</h1>
+<h1>Lista de saludos en Varios Idiomas</h1>
+<table>
+    @foreach (var saludo in Model.Saludos)
+    {
+        <tr>
+            <td>@saludo.InSpanish</td>
+            <td>@saludo.InEnglish</td>
+            <td>@saludo.InItalian</td>
+        </tr>        
+    }
+
+</table>

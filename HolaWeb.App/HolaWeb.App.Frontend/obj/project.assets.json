@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Holaweb.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Holaweb.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Holaweb.App.Dominio.dll": {}
+        }
+      },
+      "Holaweb.App.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Holaweb.App.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Holaweb.App.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Holaweb.App.Persistencia.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Holaweb.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Holaweb.App.Dominio/Holaweb.App.Dominio.csproj",
+      "msbuildProject": "../Holaweb.App.Dominio/Holaweb.App.Dominio.csproj"
+    },
+    "Holaweb.App.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../HolaWeb.App.Persistencia/Holaweb.App.Persistencia.csproj",
+      "msbuildProject": "../HolaWeb.App.Persistencia/Holaweb.App.Persistencia.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Holaweb.App.Dominio >= 1.0.0",
+      "Holaweb.App.Persistencia >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\empre\\.nuget\\packages\\": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj"
+            },
+            "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\Holaweb.App.Persistencia.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

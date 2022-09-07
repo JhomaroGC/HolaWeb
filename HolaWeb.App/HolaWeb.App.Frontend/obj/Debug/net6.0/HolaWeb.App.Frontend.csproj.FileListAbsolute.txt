@@ -24,3 +24,8 @@ C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\Desarroll
 C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\net6.0\HolaWeb.App.Frontend.pdb
 C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\net6.0\HolaWeb.App.Frontend.genruntimeconfig.cache
 C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\net6.0\ref\HolaWeb.App.Frontend.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\net6.0\Holaweb.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\net6.0\Holaweb.App.Persistencia.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\net6.0\Holaweb.App.Persistencia.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\net6.0\Holaweb.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\minTIC2022\cicloIII\DesarrolloSoftWare\Proyectos\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\net6.0\HolaWeb.App.Frontend.csproj.CopyComplete

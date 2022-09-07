@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\Holaweb.App.Dominio.csproj": {}
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\Holaweb.App.Dominio.csproj": {
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\Holaweb.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj",
         "projectName": "Holaweb.App.Dominio",
-        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\Holaweb.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\Holaweb.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\HolaWeb\\HolaWeb.App\\Holaweb.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"

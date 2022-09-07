@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HolaWeb.App.Persistencia\Holaweb.App.Persistencia.csproj" />
+    <ProjectReference Include="..\Holaweb.App.Dominio\Holaweb.App.Dominio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
